@@ -12,7 +12,7 @@ O **Git** é um sistema de controle de versão open-source. Ele é utilizado par
 
 O Github é um repositório remoto, criado como um serviço online de hospedagem de repositórios do Git.
 
-<img src="https://ik.imagekit.io/joaolucas/git-merge_pbOfxMsAq.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1644864243922">
+<img src="https://ik.imagekit.io/joaolucas/git-merge_x3jwtCTXt.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1644870099706">
 
 <br>
 
